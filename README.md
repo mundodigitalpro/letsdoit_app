@@ -8,9 +8,7 @@ Let's Do iT es una app que permite a los usuarios hacer seguimiento y gestión d
 -----------------------------------------
 1. apk: Contiene el fichero .apk de la aplicación para dispositivos Android con
    minSdk 23 y targetSdk 33.
-2. codigo: Fichero comprimido .zip que contiene el proyecto de Android Studio.
-
-
+2. code: Contiene el proyecto de Android Studio.
 
 ## Opción Premium:
 --------------
