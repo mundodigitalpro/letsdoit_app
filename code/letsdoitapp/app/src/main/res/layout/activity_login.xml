@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".activity.LoginActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/banner_zapa_in" />
+
+    <TextView
+        android:id="@+id/txtInvitation"
+        style="@style/viewCustom"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/invitation"
+        android:textColor="@color/orange_strong"
+        android:textSize="18sp" />
+
+
+    <EditText
+        android:id="@+id/etEmail"
+        style="@style/viewCustom"
+        android:layout_marginTop="0dp"
+        android:autofillHints="emailAddress"
+        android:backgroundTint="@color/gray_dark"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        android:paddingTop="25dp"
+        android:textColor="@color/gray_dark"
+        android:textColorHint="@color/gray_dark" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        style="@style/viewCustom"
+        android:backgroundTint="@color/gray_dark"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:paddingTop="25dp"
+        android:textColor="@color/gray_dark"
+        android:textColorHint="@color/gray_dark" />
+
+
+    <TextView
+        android:id="@+id/tvLogin"
+        style="@style/viewCustom"
+        android:layout_height="wrap_content"
+        android:background="@color/orange_strong"
+        android:onClick="login"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="@string/login"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/lyPassword"
+        style="@style/viewCustom"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtForgotPassword"
+            style="@style/viewCustom"
+            android:gravity="center_horizontal"
+            android:onClick="forgotPassword"
+            android:paddingTop="2dp"
+            android:text="@string/forgotPassword"
+            android:textColor="@color/orange_strong"
+            android:textSize="14sp"
+            app:drawableLeftCompat="@drawable/ic_error" />
+
+        <TextView
+            android:id="@+id/txtPasswordInfo"
+            style="@style/viewCustom"
+            android:gravity="center_horizontal"
+            android:onClick="passInfo"
+            android:paddingTop="2dp"
+            android:text="@string/info_login"
+            android:textColor="@color/orange_strong"
+            android:textSize="14sp"
+            app:drawableLeftCompat="@drawable/ic_login" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/lyTerms"
+        style="@style/viewCustom"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbAcept"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/accept"
+            android:textColor="@color/gray_dark"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvTerms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:onClick="goTerms"
+            android:text="@string/terms"
+            android:textColor="@color/orange_strong"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btSignGoogle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="@color/white"
+        android:drawableLeft="@drawable/google"
+        android:onClick="callSignInGoogle"
+        android:paddingStart="10dp"
+        android:text="@string/google"
+        android:textAlignment="textStart"
+        android:textColor="@color/gray_medium"
+        android:textSize="15sp" />
+
+    <Button
+        android:visibility="invisible"
+        android:id="@+id/btSignFacebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="@color/white"
+        android:drawableLeft="@drawable/facebook"
+        android:onClick="callSignInGoogle"
+        android:paddingStart="10dp"
+        android:text="@string/facebook"
+        android:textAlignment="textStart"
+        android:textColor="@color/gray_medium"
+        android:textSize="15sp" />
+
+</LinearLayout>

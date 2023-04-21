@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- En el archivo res/drawable/round_outline.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--<solid android:color="#FF0000"/> &lt;!&ndash; Color de fondo &ndash;&gt;-->
+    <stroke android:color="#FFFFFF" android:width="8dp"/> <!-- Color y ancho del borde -->
+    <corners android:radius="10dp"/> <!-- Radio de las esquinas -->
+</shape>

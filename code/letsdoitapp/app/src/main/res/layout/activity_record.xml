@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:id="@+id/activity_record"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:fitsSystemWindows="true"
+        android:translationY="0dp">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_record"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/gray_dark"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:title="@string/bar_title_record"
+            app:titleTextColor="@color/white" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/gray_dark"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/lySports"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/gray_light"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/ivBike"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".3"
+                android:background="@color/gray_medium"
+                android:onClick="loadSport"
+                android:src="@drawable/bike"
+                android:tag= "Bike"/>
+
+            <ImageView
+                android:id="@+id/ivRollerSkate"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight=".3"
+                android:background="@color/gray_medium"
+                android:onClick="loadSport"
+                android:src="@drawable/rollerskate"
+                android:tag= "RollerSkate"/>
+
+            <ImageView
+                android:id="@+id/ivRunning"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".3"
+                android:background="@color/orange"
+                android:onClick="loadSport"
+                android:src="@drawable/running"
+                android:tag= "Running"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/rlRecyclers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/gray_light">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvRecords"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="0dp"></androidx.recyclerview.widget.RecyclerView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fbHome"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="end|bottom"
+        android:layout_marginRight="10dp"
+        android:backgroundTint="@color/salmon_dark"
+        android:onClick="callHome"
+        android:src="@drawable/camino"
+        android:translationX="-20dp"
+        android:translationY="-90dp"
+        app:maxImageSize="50dp" />
+
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "516139421395",
+    "project_id": "letsdoitapp-33146",
+    "storage_bucket": "letsdoitapp-33146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516139421395:android:fbe24128ea9ac427ec0e26",
+        "android_client_info": {
+          "package_name": "com.example.letsdoitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516139421395-1gin9509pl3jvf8msisupovicsesr9ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letsdoitapp",
+            "certificate_hash": "ab2d65bed82f5e151521c4248aa91677b075e9e6"
+          }
+        },
+        {
+          "client_id": "516139421395-8504bo5nq9g6c3a8losua889r2tubfgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbY_YiadCtxgPfBuOw64sV4fe7jwG5ZVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516139421395-8504bo5nq9g6c3a8losua889r2tubfgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

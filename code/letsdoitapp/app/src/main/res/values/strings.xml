@@ -1,0 +1,127 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Let\'s Do iT</string>
+    <string name="email">Email</string>
+    <string name="my_email">mundodigital.pro@gmail.com</string>
+    <string name="password">Contraseña</string>
+    <string name="forgotPassword"> Haz click aqui si olvidaste tu contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="resetPassword">Enviar Contraseña</string>
+    <string name="invitation">¿ Eres capaz de hacerlo ?</string>
+    <string name="accept">He leído y acepto los</string>
+    <string name="terms">Términos y condiciones de uso.</string>
+    <string name="empty_email">Introduce un email por favor</string>
+    <string name="invalid_email">Parece que el email está mal escrito</string>
+    <string name="google">Inicia con Google</string>
+    <string name="bar_title_terms">Términos y Condiciones de Uso</string>
+    <string name="terms1">"Bienvenido a nuestra aplicación de deportes. Al utilizar nuestra aplicación, usted acepta cumplir con estos términos y condiciones de uso. Si no está de acuerdo con estos términos, por favor no utilice nuestra aplicación. Nuestra aplicación recopila y utiliza los datos del usuario que se introducen en el dispositivo, como su correo electrónico, nombre, dirección y número de teléfono, así como los datos generados con la localización GPS, los pasos y otras actividades deportivas realizadas por el usuario. Estos datos se almacenan en una base de datos externa y pueden ser utilizados para generar estadísticas.</string>
+    <string name="terms2">Es importante tener en cuenta que al utilizar nuestra aplicación, usted da su consentimiento para que recopilemos y utilicemos estos datos. Si no desea que recopilemos y utilicemos estos datos, por favor no utilice nuestra aplicación. Nos esforzamos por proteger su privacidad y tomar medidas para garantizar la seguridad de sus datos. Sin embargo, no podemos garantizar que terceros no autorizados no puedan acceder a estos datos. </string>
+    <string name="terms3">Nos reservamos el derecho de modificar estos términos y condiciones de uso en cualquier momento. Su uso continuo de la aplicación después de cualquier cambio en estos términos implica su aceptación de dichos cambios. Si tiene alguna pregunta sobre estos términos y condiciones de uso, no dude en ponerse en contacto con nosotros." </string>
+    <string name="bar_title">LetsDoIt</string>
+    <string name="menu_running">Carrera</string>
+    <string name="menu_record">Historial</string>
+    <string name="menu_becapremium">Premium</string>
+    <string name="menu_clearpreferences">Reestablecer Ajustes</string>
+    <string name="menu_signout">Cerrar Sesión</string>
+    <string name="menu_offercourse">Mis Apps</string>
+    <string name="level">Nivel</string>
+    <string name="nav_hi">¡Vamos!</string>
+    <string name="user">hola@letsdoit.com</string>
+    <string name="navigation_drawer_open">Menu</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+    <string name="bar_title_record">Historial</string>
+    <string name="alertSignOutTitle">¿Quieres cerrar sesión?</string>
+    <string name="alertSignOutTDescription">¡ Vuelve Pronto !</string>
+
+    <string name="orderby_dateZA">Fecha (Recientes primero)</string>
+    <string name="orderby_durationZA">Duración (Mayores primero)</string>
+    <string name="orderby_distanceZA">Distancia (Mayores primero)</string>
+    <string name="orderby_avgspeedZA">Vel. Prom. (Mayores primero)</string>
+    <string name="orderby_maxspeedZA">Vel. Máx. (Mayores primero)</string>
+
+    <string name="orderby_dateAZ">Fecha (Antiguos primero)</string>
+    <string name="orderby_durationAZ">Duración (Menores primero)</string>
+    <string name="orderby_distanceAZ">Distancia (Menores primero)</string>
+    <string name="orderby_avgspeedAZ">Vel. Prom. (Menores primero)</string>
+    <string name="orderby_maxspeedAZ">Vel. Máx. (Menores primero)</string>
+
+    <string name="start">INICIAR</string>
+    <string name="stop">PARAR</string>
+    <string name="finish">Finalizar</string>
+    <string name="rounds">Ronda 1</string>
+    <string name="time_running">Tiempo Corriendo</string>
+    <string name="time_walking">Tiempo Andando</string>
+    <string name="walking_clock">00:00</string>
+    <string name="init_stop_watch_value">00:00:00</string>
+
+    <string name="hard_volumen">Volumen de Música Rápida</string>
+    <string name="soft_volumen">Volumen de Música Lenta</string>
+    <string name="notification_volumen">Volumen de Notificaciones</string>
+    <string name="hard_position">00:00:00</string>
+    <string name="hard_duration">01:00:00</string>
+    <string name="soft_position">00:00:00</string>
+    <string name="soft_duration">01:00:00</string>
+    <string name="remaining">-%s</string>
+
+    <string name="PopUpTotalRuns">Carrera: </string>
+    <string name="PopUpTotalDistance">Kms acumulados: </string>
+    <string name="PopUpTotalTime">Tiempo Total: </string>
+    <string name="NoDataWarning">No hay datos registrados. Recuerda activar el GPS si deseas información de tu carrera</string>
+
+    <string name="PopUpDurationTitle">DURACION</string>
+    <string name="PopUpChallengeTitle">OBJETIVO</string>
+    <string name="PopUpIntervalTitle">INTERVALOS</string>
+    <string name="PopUpDistanceTitle">DISTANCIA</string>
+    <string name="PopUpAvgSpeedTitle">VELOCIDAD PROMEDIO</string>
+    <string name="PopUpMaxSpeedTitle">VELOCIDAD MÁXIMA</string>
+    <string name="PopUpUnevennessTitle">DESNIVEL</string>
+
+    <string name="textNull"></string>
+    <string name="textNoData">-</string>
+
+    <string name="medalDistanceDescription">Distancia [Record Personal]</string>
+    <string name="medalAvgSpeedDescription">Vel. Máx. [Record Personal]</string>
+    <string name="medalMaxSpeedDescription">Vel. Prom. [Record Personal]</string>
+
+    <string name="alertActivationGPSTitle">Permitir acceso a ubicación</string>
+    <string name="alertActivationGPSDescription">Si desea obtener datos de su carrera como la distancia recorrida y la velocidad debe activar el GPS</string>
+    <string name="ignoreActivationGPS">Ignorar</string>
+    <string name="aceptActivationGPS">Activar</string>
+
+    <string name="alertClearPreferencesTitle">¿Quieres reestablecer los ajustes de carrera?</string>
+    <string name="alertClearPreferencesDescription">Se borrarán los ajustes de carrera con intervalos, objetivo y ajustes de audio.</string>
+    <string name="alertDeleteRunTitle">¿Quieres borrar la carrera?</string>
+    <string name="alertDeleteRunDescription">Se borrarán TODOS los datos generados de la actual carrera.</string>
+    <string name="acept">Aceptar</string>
+    <string name="cancel" tools:ignore="PrivateResource">Cancelar</string>
+    <string name="CardAvgSpeedTitle">VEL. PROM.</string>
+    <string name="CardMaxSpeedTitle">VEL. MAX</string>
+    <string name="CardMedalDistance">Kms. [RP]</string>
+    <string name="CardMedalAvgSpeed">V.Máx. [RP]</string>
+    <string name="CardMedalMaxSpeed">V.Pr. [RP]</string>
+    <string name="share">COMPARTIR</string>
+    <string name="duracion">DURACIÓN</string>
+    <string name="distancia">DISTANCIA</string>
+    <string name="notificar_objetivo_alcanzado">Notificar Objetivo Alcanzado</string>
+    <string name="fin_de_carrera_automatico">Fin de carrera automático</string>
+    <string name="carrera_con_intervalos">Carrera con Intervalos</string>
+    <string name="velocidad_media">MEDIA</string>
+    <string name="tv_distancia">DISTANCIA</string>
+    <string name="tv_velocidad">MÁXIMA</string>
+    <string name="lyBanner">lyBanner</string>
+    <string name="reproducir">REPRODUCIR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="letsdoit">LetsDoIt</string>
+    <string name="facebook">Inicia con Facebook</string>
+    <string name="info_login">Información Formato Login y Contraseña</string>
+    <string name="formato">Formato válido del correo electrónico y la contraseña</string>
+    <string name="correo">El correo electrónico debe tener el formato nombre@dominio.com. La contraseña debe tener al menos una letra mayúscula, una letra minúscula, un número y un carácter especial (@#$%^+=). Además, debe tener al menos 9 caracteres."</string>
+    <string name="manual">Manual de Usuario</string>
+    <string name="premium"> Usuario Premium</string>
+    <string name="ya_premium"> Ya eres usuario Premium y disfrutas de las opciones extras de la app y sin publicidad !!!</string>
+    <string name="helpText">\"🚀 Ésta es la pantalla principal de actividades. Desde aquí, podrás seleccionar tu tipo de actividad preferida entre carrera, bicicleta y patines.\n\n🚲 También podrás configurar el cronómetro y establecer un objetivo de tiempo o distancia.\n\n📊 Durante la actividad, podrás controlar tus estadísticas en tiempo real en la parte superior de la pantalla.\n\n📷 Al finalizar la actividad, se te mostrará un resumen de la misma con tus datos y podrás tomar una foto, compartirla o eliminarla.\n\n🛢 En el menú de opciones, podrás acceder a tu perfil y estadísticas, así como a tu historial de actividades.\n\n💵 También podrás suscribirte al servicio premium, restablecer tus ajustes de cuenta y cerrar sesión.\n\n🙌 Esperamos que disfrutes de la app y te mantengas activo y saludable con Let\'s Do It.\"</string>
+    <string name="author">\"Jose Jordan\n\"</string>
+    <string name="centre">\"IES - Trassierra - Córdoba\n\"</string>
+    <string name="message">\"Hola soy $authorName!\n\n\" +                 \"He desarrollado $appName en el marco de mi formación de DAM en $centre.\n\n\" +                 \"Espero que encuentres útil esta app.\n\n\" +                 \"He intentado que sea fácil de usar.\n\n\" +                 \"Si tienes algún problema o sugerencia, por favor házmelo saber.\n\n\" +                 \"Email: $contact\n\n\" +                 \"¡Gracias por utilizar $appName!\"</string>
+    <string name="ajustes_de_audio">Ajustes de audio</string>
+
+</resources>
