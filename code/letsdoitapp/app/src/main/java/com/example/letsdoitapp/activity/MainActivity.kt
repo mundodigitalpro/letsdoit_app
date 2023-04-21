@@ -1005,7 +1005,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         val centre = CENTRE
         val contact = "<a href='mailto:$emailAddress'>$emailAddress</a>"
         val message = "Hola soy $authorName!\n\n" +
-                "He desarrollado $appName en el marco de mi formación de DAM en $centre.\n\n" +
+                "He desarrollado $appName.\n\n" +
                 "Espero que encuentres útil esta app.\n\n" +
                 "He intentado que sea fácil de usar.\n\n" +
                 "Si tienes algún problema o sugerencia, por favor házmelo saber.\n\n" +

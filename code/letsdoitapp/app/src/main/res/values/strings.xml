@@ -120,8 +120,8 @@
     <string name="ya_premium"> Ya eres usuario Premium y disfrutas de las opciones extras de la app y sin publicidad !!!</string>
     <string name="helpText">\"🚀 Ésta es la pantalla principal de actividades. Desde aquí, podrás seleccionar tu tipo de actividad preferida entre carrera, bicicleta y patines.\n\n🚲 También podrás configurar el cronómetro y establecer un objetivo de tiempo o distancia.\n\n📊 Durante la actividad, podrás controlar tus estadísticas en tiempo real en la parte superior de la pantalla.\n\n📷 Al finalizar la actividad, se te mostrará un resumen de la misma con tus datos y podrás tomar una foto, compartirla o eliminarla.\n\n🛢 En el menú de opciones, podrás acceder a tu perfil y estadísticas, así como a tu historial de actividades.\n\n💵 También podrás suscribirte al servicio premium, restablecer tus ajustes de cuenta y cerrar sesión.\n\n🙌 Esperamos que disfrutes de la app y te mantengas activo y saludable con Let\'s Do It.\"</string>
     <string name="author">\"Jose Jordan\n\"</string>
-    <string name="centre">\"IES - Trassierra - Córdoba\n\"</string>
-    <string name="message">\"Hola soy $authorName!\n\n\" +                 \"He desarrollado $appName en el marco de mi formación de DAM en $centre.\n\n\" +                 \"Espero que encuentres útil esta app.\n\n\" +                 \"He intentado que sea fácil de usar.\n\n\" +                 \"Si tienes algún problema o sugerencia, por favor házmelo saber.\n\n\" +                 \"Email: $contact\n\n\" +                 \"¡Gracias por utilizar $appName!\"</string>
+    <string name="centre">\"Córdoba\n\"</string>
+    <string name="message">\"Hola soy $authorName!\n\n\" +\"He desarrollado $appName\n\n\" + \"Espero que encuentres útil esta app.\n\n\" +                 \"He intentado que sea fácil de usar.\n\n\" +                 \"Si tienes algún problema o sugerencia, por favor házmelo saber.\n\n\" +                 \"Email: $contact\n\n\" +                 \"¡Gracias por utilizar $appName!\"</string>
     <string name="ajustes_de_audio">Ajustes de audio</string>
 
 </resources>

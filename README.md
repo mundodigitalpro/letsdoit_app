@@ -39,6 +39,12 @@ PayPal con los siguientes datos:
 Email:sb-gjkgs25146907@personal.example.com
 Password:{-lUnK=1
 
+También puedes entrar con una cuenta Premium con los siguientes datos:
+
+Email: josejordan@outlook.com
+Password: Mun1234taL?#
+
+
 ## Instalación:
 -----------
 1. Descargue el fichero .apk del directorio apk.
