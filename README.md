@@ -1,4 +1,4 @@
-# Let's Do it app
+﻿# Let's Do it app
 ## Imágenes:
 ------------
 Aquí te mostramos algunas imágenes de la app en acción:
@@ -23,6 +23,8 @@ Let's Do iT es una app que permite a los usuarios hacer seguimiento y gestión d
 1. apk: Contiene el fichero .apk de la aplicación para dispositivos Android con
    minSdk 23 y targetSdk 33.
 2. code: Contiene el proyecto de Android Studio.
+3. images: Capturas de la app.
+4. pdf: Presentación en PDF.
 
 ## Opción Premium:
 --------------

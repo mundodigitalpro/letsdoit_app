@@ -1,0 +1,263 @@
+{
+  "__collections__": {
+    "levelsBike": {
+      "level_1": {
+        "DistanceTarget": 30,
+        "RunsTarget": 1,
+        "name": "turtle",
+        "image": "level_1",
+        "__collections__": {}
+      }
+    },
+    "levelsRollerSkate": {
+      "level_1": {
+        "DistanceTarget": 20,
+        "name": "turtle",
+        "RunsTarget": 1,
+        "image": "level_1",
+        "__collections__": {}
+      }
+    },
+    "levelsRunning": {
+      "level_1": {
+        "DistanceTarget": 1,
+        "RunsTarget": 1,
+        "name": "level_1",
+        "image": "level_1",
+        "__collections__": {}
+      },
+      "level_2": {
+        "DistanceTarget": 2,
+        "name": "level_2",
+        "image": "level_2",
+        "RunsTarget": 2,
+        "__collections__": {}
+      },
+      "level_3": {
+        "image": "level_3",
+        "DistanceTarget": 3,
+        "name": "level_3",
+        "RunsTarget": 3,
+        "__collections__": {}
+      }
+    },
+    "locations": {
+      "mundodigital.pro@gmail.com": {
+        "__collections__": {
+          "20230309172524": {
+            "0005": {
+              "time": "17:25:29",
+              "speedFromGoogle": 0.06044941022992134,
+              "latitude": 37.8727588,
+              "maxSpeed": true,
+              "hasAltitude": true,
+              "longitude": -4.7720366,
+              "altitude": 147.29998779296875,
+              "color": -2743028,
+              "speedFromMe": 0.1886939041837659,
+              "__collections__": {}
+            },
+            "0009": {
+              "latitude": 37.8727602,
+              "hasAltitude": true,
+              "maxSpeed": true,
+              "altitude": 147.29998779296875,
+              "speedFromMe": 0.2959546736111856,
+              "speedFromGoogle": 0.05012956261634827,
+              "color": -2743028,
+              "longitude": -4.7720333,
+              "time": "17:25:33",
+              "__collections__": {}
+            },
+            "0014": {
+              "speedFromGoogle": 0.04743925854563713,
+              "color": -2743028,
+              "latitude": 37.8727585,
+              "speedFromMe": 0.19475628104898915,
+              "longitude": -4.7720345,
+              "hasAltitude": true,
+              "maxSpeed": false,
+              "time": "17:25:37",
+              "altitude": 147.29998779296875,
+              "__collections__": {}
+            },
+            "0017": {
+              "latitude": 37.8727594,
+              "speedFromGoogle": 0.03560367599129677,
+              "maxSpeed": false,
+              "longitude": -4.7720349,
+              "time": "17:25:41",
+              "altitude": 147.29998779296875,
+              "hasAltitude": true,
+              "speedFromMe": 0.09545005413467261,
+              "color": -2743028,
+              "__collections__": {}
+            }
+          },
+          "20230309174106": {
+            "0006": {
+              "speedFromGoogle": 0.24105611443519592,
+              "time": "17:41:11",
+              "maxSpeed": true,
+              "altitude": 147.09999084472656,
+              "speedFromMe": 0.18702217152527492,
+              "latitude": 37.8727576,
+              "longitude": -4.7720546,
+              "color": -2743028,
+              "hasAltitude": true,
+              "__collections__": {}
+            }
+          }
+        }
+      },
+      "zzz": {
+        "__collections__": {}
+      }
+    },
+    "runsBike": {
+      "zzz": {
+        "__collections__": {}
+      }
+    },
+    "runsRollerSkate": {
+      "zzz": {
+        "__collections__": {}
+      }
+    },
+    "runsRunning": {
+      "mundodigital.pro@gmail.com20230309172524": {
+        "medalMaxSpeed": "none",
+        "maxLatitude": 37.8727602,
+        "duration": "00:00:18",
+        "medalAvgSpeed": "none",
+        "centerLongitude": -4.77203495,
+        "avgSpeed": 0.1,
+        "centerLatitude": 37.8727588,
+        "sport": "Running",
+        "distance": 8.6,
+        "minLongitude": -4.7720366,
+        "maxSpeed": 0.2,
+        "user": "mundodigital.pro@gmail.com",
+        "date": "2023/03/09",
+        "activatedGPS": true,
+        "medalDistance": "none",
+        "lastimage": "images/mundodigital.pro@gmail.com/20230309172524/20230309172524-1",
+        "countPhotos": 2,
+        "minLatitude": 37.8727574,
+        "maxAltitude": 147.29998779296875,
+        "minAltitude": 147.29998779296875,
+        "startTime": "17:25:24",
+        "maxLongitude": -4.7720333,
+        "__collections__": {}
+      },
+      "mundodigital.pro@gmail.com20230309174106": {
+        "medalDistance": "none",
+        "maxSpeed": 0.1,
+        "medalAvgSpeed": "none",
+        "startTime": "17:41:06",
+        "minAltitude": 147.09999084472656,
+        "date": "2023/03/09",
+        "countPhotos": 0,
+        "minLongitude": -4.7720546,
+        "maxLongitude": -4.7720526,
+        "medalMaxSpeed": "none",
+        "minLatitude": 37.8727576,
+        "duration": "00:00:08",
+        "centerLatitude": 37.8727581,
+        "avgSpeed": 0.1,
+        "centerLongitude": -4.7720536,
+        "lastimage": "",
+        "maxLatitude": 37.8727586,
+        "maxAltitude": 147.09999084472656,
+        "activatedGPS": true,
+        "sport": "Running",
+        "distance": 2,
+        "user": "mundodigital.pro@gmail.com",
+        "__collections__": {}
+      },
+      "zzz": {
+        "__collections__": {}
+      }
+    },
+    "totalsBike": {
+      "josejordan@outlook.com": {
+        "totalDistance": 0,
+        "totalRuns": 0,
+        "recordSpeed": 0,
+        "recordDistance": 0,
+        "totalTime": 0,
+        "recordAvgSpeed": 0,
+        "__collections__": {}
+      },
+      "mundodigital.pro@gmail.com": {
+        "totalDistance": 0,
+        "recordAvgSpeed": 0,
+        "recordDistance": 0,
+        "recordSpeed": 0,
+        "totalTime": 0,
+        "totalRuns": 0,
+        "__collections__": {}
+      },
+      "zzz": {
+        "__collections__": {}
+      }
+    },
+    "totalsRollerSkate": {
+      "josejordan@outlook.com": {
+        "totalTime": 0,
+        "recordAvgSpeed": 0,
+        "recordSpeed": 0,
+        "totalRuns": 0,
+        "totalDistance": 0,
+        "recordDistance": 0,
+        "__collections__": {}
+      },
+      "mundodigital.pro@gmail.com": {
+        "totalRuns": 0,
+        "totalTime": 0,
+        "recordDistance": 0,
+        "recordSpeed": 0,
+        "recordAvgSpeed": 0,
+        "totalDistance": 0,
+        "__collections__": {}
+      },
+      "zzz": {
+        "__collections__": {}
+      }
+    },
+    "totalsRunning": {
+      "josejordan@outlook.com": {
+        "totalRuns": 0,
+        "totalDistance": 0,
+        "recordSpeed": 0,
+        "totalTime": 0,
+        "recordDistance": 0,
+        "recordAvgSpeed": 0,
+        "__collections__": {}
+      },
+      "mundodigital.pro@gmail.com": {
+        "totalRuns": 2,
+        "recordAvgSpeed": 0.2,
+        "totalDistance": 8.6,
+        "recordSpeed": 0.2,
+        "totalTime": 29,
+        "recordDistance": 8.6,
+        "__collections__": {}
+      },
+      "zzz": {
+        "__collections__": {}
+      }
+    },
+    "users": {
+      "mundodigital.pro@gmail.com": {
+        "provider": "Google",
+        "dateRegister": "09/03/2023",
+        "user": "mundodigital.pro@gmail.com",
+        "__collections__": {}
+      },
+      "zzz": {
+        "__collections__": {}
+      }
+    }
+  }
+}
