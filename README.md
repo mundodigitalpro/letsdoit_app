@@ -1,4 +1,12 @@
 ﻿# Let's Do it app
+ ## Imágenes:
+------------
+Aquí te mostramos algunas imágenes de la app en acción:
+
+![Pantalla de registro](images/registro.png =250x)
+![Pantalla de objetivos](images/objetivos.png =250x)
+![Pantalla de estadísticas](images/estadisticas.png =250x)
+![Pantalla de opciones premium](images/opciones_premium.png =250x)
 
 ## Descripción
 --------------
