@@ -1,12 +1,18 @@
-﻿# Let's Do it app
- ## Imágenes:
+# Let's Do it app
+## Imágenes:
 ------------
 Aquí te mostramos algunas imágenes de la app en acción:
 
-![Pantalla de registro](images/registro.png =250x)
-![Pantalla de objetivos](images/objetivos.png =250x)
-![Pantalla de estadísticas](images/estadisticas.png =250x)
-![Pantalla de opciones premium](images/opciones_premium.png =250x)
+<div class="image-container">
+  <img src="images/registro.png" alt="Pantalla de registro" width="500"/>
+  <img src="images/objetivos.png" alt="Pantalla de objetivos" width="500"/>
+</div>
+
+<div class="image-container">
+  <img src="images/estadisticas.png" alt="Pantalla de estadísticas" width="500"/>
+  <img src="images/opciones_premium.png" alt="Pantalla de opciones premium" width="500"/>
+</div>
+
 
 ## Descripción
 --------------
