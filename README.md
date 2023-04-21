@@ -24,7 +24,12 @@ Let's Do iT es una app que permite a los usuarios hacer seguimiento y gestión d
    minSdk 23 y targetSdk 33.
 2. code: Contiene el proyecto de Android Studio.
 3. images: Capturas de la app.
-4. pdf: Presentación en PDF.
+4. database: Incluye los ficheros con la base de datos en formato .json,
+   imágenes en formato .png y .svg.
+5. diagrams: Ficheros con diagramas de casos de uso y diagramas ER en formato
+   drawio, png, html, svg.
+6. docs: Archivos PDF de Presentacion, Especificacion de requisitos de software, Documentacion.
+
 
 ## Opción Premium:
 --------------
