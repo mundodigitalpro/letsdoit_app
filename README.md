@@ -1,8 +1,6 @@
 ﻿# Let's Do it app
 ## Imágenes:
 ------------
-Aquí te mostramos algunas imágenes de la app en acción:
-
 <div class="image-container">
   <img src="images/registro.png" alt="Pantalla de registro" width="500"/>
   <img src="images/objetivos.png" alt="Pantalla de objetivos" width="500"/>
