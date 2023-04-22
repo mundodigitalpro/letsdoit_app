@@ -33,16 +33,10 @@ Let's Do iT es una app que permite a los usuarios hacer seguimiento y gestión d
 
 ## Opción Premium:
 --------------
-Para probar la opción Premium de la aplicación, utilice la cuenta sandbox de
-PayPal con los siguientes datos:
-
-Email:sb-gjkgs25146907@personal.example.com
-Password:{-lUnK=1
-
-También puedes entrar con una cuenta Premium con los siguientes datos:
+Para probar la opción de pago Premium de la aplicación puedes entrar con los siguientes datos:
 
 Email: josejordan@outlook.com
-Password: Mun1234taL?#
+Password: MsjJD8nyRj9t##72
 
 
 ## Instalación:
